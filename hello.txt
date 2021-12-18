@@ -13,4 +13,4 @@ hello yufeng! hello git!
 hello yufeng! hello git!
 hello yufeng! hello git!
 hello yufeng! hello git!master test
-hello yufeng! hello git!
+hello yufeng! hello git!hot-fix test
